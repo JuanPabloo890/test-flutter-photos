@@ -30,10 +30,38 @@ const firebaseConfig = {
       appId: "tus credenciales"
     };
 ```
-## Demostración de la aplicación en funcionamiento
+# Demostración de la aplicación en funcionamiento
 
 ### WEB
-La web se puede encontrar en el enlace [https://fir-flutter-codelab-403c7.web.app/](https://fir-flutter-codelab-403c7.web.app/)
+La demostración de la web se realizó cuando se hizo el deploy:
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5090c96e-22a8-418c-ba82-2ff5c7800ad0" alt="Web Deployment">
+</p>
+
+Tomamos una foto y seleccionamos una foto que en este caso es "sky":
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2f8a3adb-3938-40a0-8f12-b77e65555515" alt="Seleccionar Foto">
+</p>
+
+Subimos la foto al Firebase:
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0e22f58f-3f65-44e5-bdec-0b1aaac581c7" alt="Subir Foto">
+</p>
+
+Mensaje de verificación de la subida de la imagen:
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/01aaac51-a3b7-4828-b85d-d78b299255b8" alt="Verificación de Subida">
+</p>
+
+Verificamos en Firebase si se subió el archivo:
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b0808938-15d4-4ae8-ac13-de5d0fced62d" alt="Verificación en Firebase">
+</p>
 
 ### Móvil
 
