@@ -30,6 +30,11 @@ const firebaseConfig = {
       appId: "tus credenciales"
     };
 ```
+
+# La APK la pueden encontrar en el siguiente enlace
+
+https://epnecuador-my.sharepoint.com/:u:/g/personal/juan_falconi_epn_edu_ec/EbdItiPrgYZDpMbDHiO4A3sBn_la9NtfdjSMbbxQDDHKvw?e=YeQzFN
+
 # Demostración de la aplicación en funcionamiento
 
 ### WEB
