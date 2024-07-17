@@ -4,6 +4,19 @@
 - Juan Falconi
 - Juan Gualotuña
 
+## Instalacion de dependencias usadas para tomar y subir fotos a firebase
+```sh
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: ^3.2.0
+  firebase_storage: ^12.1.1
+  firebase_auth: ^5.1.2
+  image_picker: ^1.1.2
+  universal_io: ^2.2.2
+  image_picker_web: ^4.0.0
+```
+
 ## Demostración de la aplicación en funcionamiento
 
 ### WEB
