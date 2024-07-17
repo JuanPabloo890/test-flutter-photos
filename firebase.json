@@ -1,0 +1,37 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "fir-flutter-codelab-403c7",
+          "appId": "1:238371941708:android:61aa1f1a13c806a485b3e9",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "fir-flutter-codelab-403c7",
+          "configurations": {
+            "android": "1:238371941708:android:61aa1f1a13c806a485b3e9",
+            "ios": "1:238371941708:ios:9eadd6105990b8f485b3e9",
+            "web": "1:238371941708:web:ea9c9972687deb7085b3e9"
+          }
+        }
+      }
+    }
+  },
+  "hosting": {
+    "public": "build/web",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}
