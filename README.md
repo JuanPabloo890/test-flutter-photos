@@ -31,9 +31,14 @@ const firebaseConfig = {
     };
 ```
 
-# La APK la pueden encontrar en el siguiente enlace
+### APK
+La APK la pueden encontrar en el siguiente enlace:
 
-https://epnecuador-my.sharepoint.com/:u:/g/personal/juan_falconi_epn_edu_ec/EbdItiPrgYZDpMbDHiO4A3sBn_la9NtfdjSMbbxQDDHKvw?e=YeQzFN
+<p align="center">
+  <a href="https://epnecuador-my.sharepoint.com/:u:/g/personal/juan_falconi_epn_edu_ec/EbdItiPrgYZDpMbDHiO4A3sBn_la9NtfdjSMbbxQDDHKvw?e=YeQzFN" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Download%20APK-blue?style=for-the-badge&logo=android" alt="Download APK">
+  </a>
+</p>
 
 # Demostración de la aplicación en funcionamiento
 
