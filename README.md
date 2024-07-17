@@ -43,7 +43,9 @@ La APK la pueden encontrar en el siguiente enlace:
 # Demostración de la aplicación en funcionamiento
 
 ### WEB
-La demostración de la web se realizó cuando se hizo el deploy:
+
+Puedes ver la demostración de la web en el siguiente enlace:
+[Demostración de la Web](https://fir-flutter-codelab-403c7.web.app/)
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/5090c96e-22a8-418c-ba82-2ff5c7800ad0" alt="Web Deployment">
