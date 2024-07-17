@@ -5,6 +5,7 @@
 - Juan Gualotuña
 
 ## Instalacion de dependencias usadas para tomar y subir fotos a firebase
+
 ```sh
 dependencies:
   flutter:
@@ -17,6 +18,18 @@ dependencies:
   image_picker_web: ^4.0.0
 ```
 
+## Configuracion de variables 
+
+```sh
+const firebaseConfig = {
+      apiKey: "tus crendenciales",
+      authDomain: "tus credenciales",
+      projectId: "tus credenciales",
+      storageBucket: "tus credenciales",
+      messagingSenderId: "tus credenciales",
+      appId: "tus credenciales"
+    };
+```
 ## Demostración de la aplicación en funcionamiento
 
 ### WEB
