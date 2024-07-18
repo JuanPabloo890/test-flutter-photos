@@ -15,6 +15,7 @@ dependencies:
   image_picker: ^1.1.2
   universal_io: ^2.2.2
   image_picker_web: ^4.0.0
+  permission_handler: ^10.2.0
 
 dev_dependencies:
   change_app_package_name: ^1.1.0
@@ -24,4 +25,6 @@ dev_dependencies:
   flutter_lints: ^4.0.0
 
 flutter:
+  assets:
+    - assets/image/uploadImage.jpg
   uses-material-design: true
